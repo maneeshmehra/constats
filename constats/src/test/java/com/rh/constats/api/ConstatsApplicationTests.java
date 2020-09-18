@@ -1,4 +1,4 @@
-package com.rh.constats;
+package com.rh.constats.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
